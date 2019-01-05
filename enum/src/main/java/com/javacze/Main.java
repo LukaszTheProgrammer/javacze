@@ -7,7 +7,10 @@ enum Compass {
 
     Compass(String symbol) {
         this.symbol = symbol;
-    }
+    } //jak również konstruktory, ale są one prywatne w ramach danego typu wyliczeniowego i nie można
+    // ich wywołać inaczej niż poprzez definicję wartości
+    // (inaczej mówiąc wywołanie new Compass z dowolnego miejsca w kodzie jest niedozwolone,
+    // konstruktor w tym przypadku wywoła się dla każdej z 4 zdefiniowach wartości)
 
     public String getSymbol() {
         return symbol;
@@ -33,5 +36,4 @@ public class Main {
             System.out.println(d + " " + d.getSymbol());
         }
     }
-
 }
