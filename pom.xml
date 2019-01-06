@@ -20,6 +20,24 @@
     <module>circle</module>
     <module>do_while</module>
     <module>enum</module>
+    <module>firma</module>
+    <module>kalkulator_na_switch</module>
+    <module>kalkulator</module>
+    <module>konto</module>
+    <module>metody_statyczne</module>
+    <module>modyfikatory_widocznosci</module>
+    <module>odczyt_z_pliku</module>
+    <module>pakiety</module>
+    <module>zmienne_statyczne</module>
+    <module>string_intro</module>
+    <module>czytanie_z_klawiatury</module>
+    <module>tablice</module>
+    <module>varargs</module>
+    <module>while</module>
+    <module>wrapper_types</module>
+    <module>zadanie_z_imionami</module>
+    <module>zapis_do_pliku</module>
+    <module>zapis_do_pliku_2</module>
   </modules>
 
   <build>
