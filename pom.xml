@@ -38,6 +38,7 @@
     <module>zadanie_z_imionami</module>
     <module>zapis_do_pliku</module>
     <module>zapis_do_pliku_2</module>
+    <module>d5</module>
   </modules>
 
   <build>
