@@ -14,6 +14,12 @@
   <modules>
     <module>checked_exceptions</module>
     <module>kalkulator_z_obsluga_wyjatkow</module>
+    <module>unchecked_exceptions</module>
+    <module>regexp</module>
+    <module>regexp_zadanie</module>
+    <module>dziedziczenie</module>
+    <module>polimorfizm</module>
+    <module>poker</module>
   </modules>
 
 
