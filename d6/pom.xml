@@ -9,20 +9,13 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>d5</artifactId>
+  <artifactId>d6</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>checked_exceptions</module>
-    <module>kalkulator_z_obsluga_wyjatkow</module>
-    <module>unchecked_exceptions</module>
-    <module>regexp</module>
-    <module>regexp_zadanie</module>
-    <module>dziedziczenie</module>
-    <module>polimorfizm</module>
-    <module>poker</module>
-    <module>dziedziczenie_cwiczenie</module>
-    <module>poker_rozwiazanie</module>
-    <module>regexp_zadanie_rozwiazanie</module>
+    <module>regexp_zadanie_2_rozwiazanie</module>
+    <module>klasy_abstrakcyjne_cwiczenie_rozwiazanie</module>
+    <module>wyjatki_checked_cwiczenie_rozwiazanie</module>
+    <module>interface_cwiczenie_rozwiazanie</module>
   </modules>
 
 

@@ -4,4 +4,3 @@ Jim Ming 45,600
 Jane Wang 33,304
 Kim Black 34,700
 Jim Beam 343,500,000,000,000
-Jim Beam 343,500,000,000,000
