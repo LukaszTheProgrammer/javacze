@@ -14,7 +14,7 @@ public class Main {
 
         while(scanner.hasNext()){  // zwraca true jeśli w buforze danych znajdują się dane
             String line = scanner.nextLine();
-            line = line.replaceAll("[\\d,]+", "***");
+            line = line.replaceAll("[\\d,]+", "***"); //pattern należy czytać jako dowolna cyfra lub , występujący conajmniej raz
             System.out.println(line);
         }
     }

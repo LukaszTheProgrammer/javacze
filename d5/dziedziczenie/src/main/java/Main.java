@@ -17,13 +17,14 @@ class Osoba {
     }
 }
 
-class Pracownik extends Osoba {
+class Pracownik extends Osoba { //Pracownik dziedziczy po klasie Osoba pola imie, nazwisko
+    //oraz metody getImie, getNazwisko
 
-    private long idPracownika;
-    private String[] uprawnienia;
+    private long idPracownika; //to jest pole własne klasy Pracownik
+    private String[] uprawnienia;//to jest pole własne klasy Pracownik
 
     Pracownik(String imie, String nazwisko, long idPracownika, String[] uprawnienia) {
-        super(imie, nazwisko);
+        super(imie, nazwisko); //wywołujemy konstruktor klasy Osoba poprzez słowo kluczowe super
         this.idPracownika = idPracownika;
         this.uprawnienia = uprawnienia;
     }
@@ -57,10 +58,10 @@ public class Main {
         Pracownik p = new Pracownik("Jim", "Beam", 123L, new String[]{"ADMINISTRATOR"});
         Klient k = new Klient("John", "Smith", 20.45);
 
-        System.out.println(p.getImie());
-        System.out.println(p.getNazwisko());
+        System.out.println(p.getImie()); //możliwe ponieważ Pracownik dziedziczy po Osobie
+        System.out.println(p.getNazwisko());//możliwe ponieważ Pracownik dziedziczy po Osobie
 
-        System.out.println(k.getImie());
-        System.out.println(k.getNazwisko());
+        System.out.println(k.getImie());//możliwe ponieważ Klient dziedziczy po Osobie
+        System.out.println(k.getNazwisko());//możliwe ponieważ Klient dziedziczy po Osobie
     }
 }
