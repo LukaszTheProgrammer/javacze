@@ -16,6 +16,11 @@
     <module>generyczne_typy_klas</module>
     <module>data_i_czas</module>
     <module>data_i_czas_zadanie</module>
+    <module>mapa_zadanie_rozwiazanie</module>
+    <module>list</module>
+    <module>map</module>
+    <module>set</module>
+    <module>wlasna_kolekcja_zadanie</module>
   </modules>
 
 

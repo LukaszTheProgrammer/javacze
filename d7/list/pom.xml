@@ -9,7 +9,7 @@
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>generyczne_typy_metod</artifactId>
-  <packaging>pom</packaging>
+  <artifactId>list</artifactId>
+
 
 </project>
