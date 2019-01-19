@@ -21,6 +21,8 @@
     <module>map</module>
     <module>set</module>
     <module>wlasna_kolekcja_zadanie</module>
+    <module>rekurencja</module>
+    <module>rekurencja_zadanie</module>
   </modules>
 
 
