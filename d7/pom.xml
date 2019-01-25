@@ -23,6 +23,15 @@
     <module>wlasna_kolekcja_zadanie</module>
     <module>rekurencja</module>
     <module>rekurencja_zadanie</module>
+    <module>generics_cwiczenie_rozwiazanie</module>
+    <module>generics_metody_cwiczenie</module>
+    <module>listy_zadanie_rozwiazanie</module>
+    <module>set_zadanie_rozwiazanie</module>
+    <module>treeset_zadanie_rozwiazanie</module>
+    <module>enum_zadanie_rozwiazanie</module>
+    <module>data_i_czas_zadanie_rozwiazanie</module>
+    <module>rekurencja_zadanie_rozwiazanie</module>
+    <module>wlasna_kolekcja_zadanie_rozwiazanie</module>
   </modules>
 
 

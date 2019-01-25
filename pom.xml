@@ -41,6 +41,7 @@
     <module>d5</module>
     <module>d6</module>
     <module>d7</module>
+    <module>d8</module>
   </modules>
 
   <build>
