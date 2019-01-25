@@ -15,7 +15,6 @@ public class Main {
         } catch (MyCheckedException e) {
             System.out.println("wystąpił wyjątek `" + e.getMessage()+"`");
         }
-        System.out.println("Tej linii nikt nie zobaczy jeśli liczba argumentów programu < 100");
     }
 
     private static void validateArgumentLength(String[] args) throws MyCheckedException {
